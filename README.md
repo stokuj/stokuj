@@ -19,5 +19,5 @@ Currently building projects with Django, FastAPI, and Spring Boot.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=stokuj&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=stokuj&show_icons=true&theme=tokyonight&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stokuj&layout=compact&theme=tokyonight)
